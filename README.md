@@ -14,4 +14,4 @@ ADD AND DELETE ROW's
 ![Alt text](/screenshots/page-2.png?raw=true "Create user")
 
 SELECt PRODUCTS
-![Alt text](/screenshots/sort.png?page-3=true "Create user")
+![Alt text](/screenshots/sort.png?page-3.png?raw=true  "Create user")
